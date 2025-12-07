@@ -4,7 +4,7 @@ Security researcher. Finding bugs, breaking things responsibly
 
 **What I do:**
 
-- Vulnerability research & responsible disclosure
+- Vulnerability research
 - Open-source security contributions
 - Reverse engineering
 
