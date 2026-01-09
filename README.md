@@ -1,6 +1,6 @@
 ### Hey
 
-Security researcher. Finding bugs, breaking things responsibly
+I work on low-level security issues
 
 **What I do:**
 
